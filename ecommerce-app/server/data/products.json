@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality headphones with active noise cancellation.",
+    "imageUrl": "https://images.pexels.com/photos/3945667/pexels-photo-3945667.jpeg",
+    "price": 999.99,
+    "stock": 100,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Fitness Watch",
+    "description": "Monitor your health and activity with this sleek watch.",
+    "imageUrl": "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Vwd2s2MTkyMTcyMi13aWtpbWVkaWEtaW1hZ2Uta3A2OTB5c2YuanBn.jpg",
+    "price": 1099.99,
+    "stock": 80,
+    "category": "Wearables"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "description": "Keeps drinks cold for 24 hours or hot for 12.",
+    "imageUrl": "https://cdn12.picryl.com/photo/2016/12/31/hot-water-bottle-red-vacuum-flask-5ec751-1024.jpg",
+    "price": 499.95,
+    "stock": 200,
+    "category": "Home"
+  },
+  {
+    "name": "Yoga Mat Non-Slip",
+    "description": "Comfortable, durable, and slip-resistant yoga mat.",
+    "imageUrl": "https://impactptaz.com/wp-content/uploads/2018/10/81TgGZWoIiL._SL1500_.jpg",
+    "price": 300.5,
+    "stock": 150,
+    "category": "Fitness"
+  },
+  {
+    "name": "Noise Cancelling Earbuds",
+    "description": "Compact earbuds with superior noise cancellation.",
+    "imageUrl": "https://wetried.it/cdn-cgi/imagedelivery/2TqHVWJc_vpFBiW-iQAMcw/wetried.it/2021/02/cq5dam.web_.1280.1280.png/w=1024",
+    "price": 29.99,
+    "stock": 120,
+    "category": "Electronics"
+  },
+  {
+    "name": "Portable Phone Charger",
+    "description": "High-capacity power bank for charging on the go.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1GEdZDuKMW2R54nfxpssWR6XZlX_FnJuNA&s",
+    "price": 18.75,
+    "stock": 90,
+    "category": "Accessories"
+  },
+  { 
+    "name": "Cotton T-Shirt - Men",
+    "description": "Soft cotton t-shirt available in various colors.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMuIxNVLm3N6ZCBemnTIoVBeQolNWoLbAuw&s",
+    "price": 299.0,
+    "stock": 300,
+    "category": "Clothing"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "description": "Comfort-focused chair with lumbar support.",
+    "imageUrl": "https://live.staticflickr.com/5749/22165817220_cdb86a714d_w.jpg",
+    "price": 5699.0,
+    "stock": 50,
+    "category": "Furniture"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "description": "Minimalist desk lamp with adjustable brightness.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkO9fTRJOoZWF6YmT9wYnAJTL-1WOGHW7iqw&s",
+    "price": 599.99,
+    "stock": 75,
+    "category": "Home"
+  },
+  {
+    "name": "Gaming Mouse RGB",
+    "description": "Customizable gaming mouse with RGB lighting.",
+    "imageUrl": "https://images.pexels.com/photos/28779688/pexels-photo-28779688.jpeg?cs=srgb&dl=pexels-atahandemir-28779688.jpg&fm=jpg",
+    "price": 999.99,
+    "stock": 60,
+    "category": "Gaming"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with deep bass and long battery.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUspzRr8nZ0mhJHWXmGiJuM3kHpN8uCsUaw&s",
+    "price": 1399.99,
+    "stock": 110,
+    "category": "Electronics"
+  },
+  {
+    "name": "Digital Drawing Tablet",
+    "description": "Ideal for artists and graphic designers.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZUpxh8TyPwrvczVUw0bVLna7q4RZvrc_ww&s",
+    "price": 1000.0,
+    "stock": 70,
+    "category": "Electronics"
+  },
+  {
+    "name": "Kitchen Knife Set",
+    "description": "Stainless steel knives with wooden handles.",
+    "imageUrl": "https://images.pexels.com/photos/16443132/pexels-photo-16443132/free-photo-of-sternsteiger-set-of-7-in-vg-10-steel.jpeg",
+    "price": 699.95,
+    "stock": 130,
+    "category": "Home"
+  },
+  {
+    "name": "Running Shoes - Women",
+    "description": "Lightweight shoes for comfort and performance.",
+    "imageUrl": "https://cdn12.picryl.com/photo/2016/12/31/shoe-free-photos-free-images-4528b3-1024.jpg",
+    "price": 1999.99,
+    "stock": 140,
+    "category": "Footwear"
+  },
+  {
+    "name": "Wireless Keyboard and Mouse",
+    "description": "Ergonomic combo for home or office use.",
+    "imageUrl": "https://live.staticflickr.com/4233/34756614290_8a45f158fa_b.jpg",
+    "price": 1599.5,
+    "stock": 85,
+    "category": "Accessories"
+  },
+  {
+    "name": "Kids Learning Tablet",
+    "description": "Safe, educational device for children.",
+    "imageUrl": "https://live.staticflickr.com/7443/9441340796_9b1ef9d0e1_b.jpg",
+    "price": 799.99,
+    "stock": 60,
+    "category": "Kids"
+  },
+  {
+    "name": "Bamboo Cutting Board",
+    "description": "Eco-friendly and durable kitchen essential.",
+    "imageUrl": "https://live.staticflickr.com/3042/2546253683_e867d4084c_b.jpg",
+    "price": 299.99,
+    "stock": 95,
+    "category": "Home"
+  },
+  {
+    "name": "Adjustable Dumbbell Set",
+    "description": "Space-saving weights for home workouts.",
+    "imageUrl": "https://images.stockcake.com/public/a/c/e/ace8c072-5b94-47e2-b93b-ec14b2b44f5d/geometric-weight-collection-stockcake.jpg",
+    "price": 1499.0,
+    "stock": 45,
+    "category": "Fitness"
+  },
+  {
+    "name": "Stylish Sunglasses",
+    "description": "UV-protection sunglasses with a modern frame.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2mdBKSggVFjhUfDfwGPhB3dgMtghTjslUrA&s",
+    "price": 799.0,
+    "stock": 170,
+    "category": "Accessories"
+  },
+  {
+    "name": "Bluetooth Car Adapter",
+    "description": "Turn your car stereo into a wireless system.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOHPPudTa-V2SyKsBhGb2Jynk2IIoppNB2w&s",
+    "price": 1566.99,
+    "stock": 100,
+    "category": "Electronics"
+  },
+  {
+    "name": "Memory Foam Pillow",
+    "description": "Contours perfectly to support your neck.",
+    "imageUrl": "https://live.staticflickr.com/65535/48766588003_8170809903_c.jpg",
+    "price": 999.0,
+    "stock": 110,
+    "category": "Home"
+  },
+  {
+    "name": "Backpack with USB Charging",
+    "description": "Durable backpack ideal for students and travel.",
+    "imageUrl": "https://www.grayingwithgrace.com/wp-content/uploads/2025/01/swiss-digital-backpack-gwg-frame-at-1m39s-1200x675.jpg",
+    "price": 1942.99,
+    "stock": 95,
+    "category": "Accessories"
+  },
+  {
+    "name": "Mini Projector",
+    "description": "Pocket-size projector for movies and presentations.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNi1UEf7UuWxjkYm3TBqi0biVTAP1MpRuug&s",
+    "price": 2000.0,
+    "stock": 55,
+    "category": "Electronics"
+  },
+  {
+    "name": "Compact Air Purifier",
+    "description": "Keep your room fresh and allergen-free.",
+    "imageUrl": "https://sumacms.com.au/wp-content/uploads/2023/10/DAPM0005__98024-300x300.png",
+    "price": 3500.95,
+    "stock": 60,
+    "category": "Home"
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "description": "Ergonomic design with quiet fans.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD4LZoL8OjKVvlTUIzBqGJ7Q1zdpRzA_SwQ&s",
+    "price": 789.99,
+    "stock": 70,
+    "category": "Accessories"
+  },
+  {
+    "name": "Leather Wallet - Men",
+    "description": "Classic bifold wallet with RFID blocking.",
+    "imageUrl": "https://images.pexels.com/photos/20015773/pexels-photo-20015773.jpeg?cs=srgb&dl=pexels-rohit-sharma-1230131-20015773.jpg&fm=jpg",
+    "price": 300.0,
+    "stock": 150,
+    "category": "Clothing"
+  },
+  {
+    "name": "Instant Coffee Maker",
+    "description": "Brew your coffee in under 2 minutes.",
+    "imageUrl": "https://live.staticflickr.com/65535/50698915258_62efb15356_b.jpg",
+    "price": 9999.0,
+    "stock": 50,
+    "category": "Home"
+  },
+  {
+    "name": "Photo Clip String Lights",
+    "description": "Decorate with warm lights and your favorite memories.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaOfSoiArf-GXaQZxNkzlSExVG0xEWXWUSg&s",
+    "price": 499.5,
+    "stock": 90,
+    "category": "Home"
+  },
+  {
+    "name": "Wireless Doorbell Kit",
+    "description": "Easy to install with long-range connectivity.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVegLrrjLvOF8MgIRNVRkeVc6tiLwM22eELQ&s",
+    "price": 1999.95,
+    "stock": 65,
+    "category": "Electronics"
+  },
+  {
+    "name": "Rechargeable Electric Toothbrush",
+    "description": "Improve your dental hygiene with smart brushing.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Solimo_Rechargeable_Toothbrush_-_49477229211.jpg",
+    "price": 499.0,
+    "stock": 80,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Foldable Laptop Stand",
+    "description": "Portable stand for better posture and airflow.",
+    "imageUrl": "https://live.staticflickr.com/3248/3025588105_f66d98645f_b.jpg",
+    "price": 399.5,
+    "stock": 120,
+    "category": "Accessories"
+  },
+  {
+    "name": "Magnetic Phone Mount",
+    "description": "Secure your phone in your car with ease.",
+    "imageUrl": "https://catalog.polo.blue/_spoko/000051435AF-Smartphone-Holder-360-3_ZvC4E0.webp",
+    "price": 899.75,
+    "stock": 110,
+    "category": "Accessories"
+  },
+  {
+    "name": "Decorative Wall Clock",
+    "description": "Modern design for your living room or office.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQl4QuXudW9_b_eWWJHqCqfqvmlxASuLs1g&s",
+    "price": 799.0,
+    "stock": 90,
+    "category": "Home"
+  },
+  {
+    "name": "Camping Tent - 2 Person",
+    "description": "Waterproof and wind-resistant for outdoor adventures.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Camping_on_a_Deserted_Beach_on_Pulau_Pasi%2C_Selayar_Island%2C_Sulawesi_%2814999641329%29.jpg",
+    "price": 7999.99,
+    "stock": 40,
+    "category": "Outdoors"
+  },
+  {
+    "name": "Fitness Tracker Band",
+    "description": "Monitors steps, sleep, and heart rate.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISx2zrMTdQf4H0I8SQJBp0G_ONpMlqhd7Mw&s",
+    "price": 999.5,
+    "stock": 95,
+    "category": "Wearables"
+  },
+  {
+    "name": "LED Ring Light",
+    "description": "Perfect lighting for content creators and selfies.",
+    "imageUrl": "https://live.staticflickr.com/4131/5084757957_c2fa11f022_b.jpg",
+    "price": 785.5,
+    "stock": 70,
+    "category": "Accessories"
+  },
+  {
+    "name": "Cordless Hair Clipper",
+    "description": "Rechargeable trimmer for home haircuts.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIr-NXYkOuf2knw29B7YTJaF8tWfavGJeNVw&s",
+    "price": 987.0,
+    "stock": 55,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Pet Grooming Kit",
+    "description": "Keep your furry friends clean and tidy.",
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvaXMyMjEyOC1pbWFnZS1rd3lzOWJhdS5qcGc.jpg",
+    "price": 52.0,
+    "stock": 60,
+    "category": "Pets"
+  },
+  {
+    "name": "Dual Monitor Stand",
+    "description": "Organize your workspace efficiently.",
+    "imageUrl": "https://live.staticflickr.com/7228/7065458327_55c4c959a7_b.jpg",
+    "price": 2500.0,
+    "stock": 45,
+    "category": "Furniture"
+  },
+  {
+    "name": "Monitor 4K",
+    "description": "Organize your efficient graphics.",
+    "imageUrl": "data:image/jpeg;base64,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",
+    "price": 25000.0,
+    "stock": 45,
+    "category": "Electronics"
+  }
+]

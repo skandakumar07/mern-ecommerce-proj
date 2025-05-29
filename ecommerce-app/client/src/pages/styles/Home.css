@@ -1,0 +1,80 @@
+.home-container {
+  padding: 20px;
+}
+
+.hero-banner {
+  position: relative;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.banner-img {
+  width: 100%;
+  height: 320px;           /* Adjust the height as needed */
+  object-fit: cover;       /* Ensures full coverage without stretching */
+  filter: brightness(65%); /* Darken background for better text contrast */
+  border-radius: 10px;
+}
+
+.banner-text {
+  position: absolute;
+  top: 35%;
+  left: 10%;
+  transform: translateY(-50%);
+  color: white;
+  z-index: 2;
+}
+
+.banner-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.banner-text p {
+  font-size: 1.2rem;
+}
+
+
+.categories {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.categories button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #242424;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.section-title {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.product-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 5px;
+}

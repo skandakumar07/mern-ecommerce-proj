@@ -1,0 +1,94 @@
+.auth-wrapper {
+  position: relative;
+  min-height: 100vh;
+  background-image: url('https://www.usnews.com/object/image/00000174-c065-d958-ab7e-fd7760ea0000/200924-shopping-stock.jpg?update-time=1600955769116&size=responsive640');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.auth-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: 1;
+}
+
+.auth-box {
+  position: relative;
+  z-index: 2;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 50px;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.auth-box h2 {
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.auth-box p {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.auth-box form {
+  display: flex;
+  flex-direction: column;
+}
+
+.auth-box input {
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.auth-box input:focus {
+  border-color: #0099ff;
+  outline: none;
+}
+
+.auth-box button {
+  padding: 12px;
+  background-color: #0099ff;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.auth-box button:hover {
+  background-color: #007acc;
+}
+
+.switch-text {
+  font-size: 14px;
+  margin-top: 12px;
+}
+
+.switch-text a {
+  color: #0099ff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.switch-text a:hover {
+  text-decoration: underline;
+}

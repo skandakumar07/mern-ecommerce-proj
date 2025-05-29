@@ -1,0 +1,39 @@
+.order-success-container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  padding: 60px 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+.success-icon {
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: #28a745;
+}
+
+.order-success-container h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.order-success-container p {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.back-home-btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.back-home-btn:hover {
+  background-color: #0056b3;
+}

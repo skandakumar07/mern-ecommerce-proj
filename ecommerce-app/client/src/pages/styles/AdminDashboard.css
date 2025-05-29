@@ -1,0 +1,49 @@
+.admin-dashboard {
+  padding: 40px;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.admin-dashboard h2 {
+  margin-bottom: 25px;
+  font-size: 24px;
+  color: #333;
+}
+
+.orders-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+}
+
+.orders-table th,
+.orders-table td {
+  padding: 15px 12px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.orders-table th {
+  background-color: #007acc;
+  color: white;
+}
+
+.orders-table td {
+  color: #444;
+}
+
+.orders-table button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 7px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.orders-table button:hover {
+  background-color: #218838;
+}
