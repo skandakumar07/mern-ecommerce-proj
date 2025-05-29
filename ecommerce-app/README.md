@@ -116,4 +116,4 @@ May 29, 2025
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Skanda Kumar H S
